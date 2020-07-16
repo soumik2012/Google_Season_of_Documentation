@@ -48,7 +48,6 @@ The following people are Maintainers Reviewers Ambassadors or Coaches
 **Ambassadors** are available to provide training related to this repository  
 **Coaches** are available to provide information to new contributors to this repository  
 
-Adding a line
 
   
 
