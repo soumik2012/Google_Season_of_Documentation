@@ -35,5 +35,20 @@ If climate change is keeping you awake at night, you might as well make a contri
     * [submit a discussion](https://help.github.com/en/articles/about-team-discussions) to the project, repository or moja global [team](https://github.com/orgs/moja-global/teams)
     * [submit a message](https://get.slack.help/hc/en-us/categories/200111606#send-messages) to the relevant channel on [moja global's Slack workspace](https://mojaglobal.slack.com). 
 * If you have other questions, please write to info@moja.global   
+
+  
+## Maintainers Reviewers Ambassadors Coaches
+
+The following people are Maintainers Reviewers Ambassadors or Coaches
+
+<table><tr><td align="center"><a href="https://github.com/gmajan"><img src="https://avatars0.githubusercontent.com/u/8733319?v=4" width="100px;" alt="Guy Janssen"/><br /><sub><b>Guy Janssen</b></sub></a><br /><a href="#maintenance-gmajan" title="Maintenance">🚧</a></tr></table>
+
+**Maintainers** review and accept proposed changes  
+**Reviewers** check proposed changes before they go to the Maintainers  
+**Ambassadors** are available to provide training related to this repository  
+**Coaches** are available to provide information to new contributors to this repository  
+
+Adding a line
+
   
 
