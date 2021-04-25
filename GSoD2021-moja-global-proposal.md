@@ -70,7 +70,7 @@ We will have multiple milestones to ensure that the technical writer has been fo
 
 #### Technical writer #2 - Open for application.
 
-We are accepting applications for writer #2. Please email [info@moja.global](mailto:info@moja.global) or join our [Slack community](https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw) and the #documentation channel.
+Applications for writer #2 have closed. Please join our join our [Slack community](https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw) and the #documentation channel it you wish to participate voluntarily. We need all the help we can get. 
 
 Writer #2 will work with mentors Sneha Mishra (contributors website developer, ReadTheDocs maintainer, and GSoD 2020 graduate!) and Dr. Andrew O’Reilly-Nugent (TSC Director) to organise our technical and developer documentation. This will involve collaboration with the Documentation Working Group, moja global brand management partners at Climate Advisors, and the maintainers of moja global projects. Writer #2 will need a keen eye for detail and great instincts for designing a pain-free documentation experience. Web development experience is not required, but would be a bonus if it enabled Writer #2 to take the lead on the provisioning of a static site generator, with support from other moja global developers.
 
