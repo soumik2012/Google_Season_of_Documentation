@@ -18,6 +18,8 @@ Moja global has hosted mentees from Google Summer of Code, Season of Documentati
 
 The goal of this project is to develop a content strategy that makes our different documentation types easy to navigate, access and understand. In addition to the core FLINT library, our community has developed a small ecosystem of interrelated tools and platforms. As our community has grown, so has our documentation, some of which remains siloed or inaccessible to end-users and developers who would like to work with us.
 
+Applications have closed. Please join our join our [Slack community](https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw) and the #documentation channel it you wish to participate voluntarily. We need all the help we can get!
+
 ### Problem
 
 Right now, new users experience difficulty understanding how moja global projects can be used or are interrelated. Last year, our GSoD efforts led to the development of a website to onboard new contributors, a ReadTheDocs environment for our technical documentation, and completed documentation for the moja global Reporting Tool. We’d now like to extend these resources and by adding easy to follow examples of how the FLINT works and can be used with other tools to our documentation and contributors websites.
@@ -70,9 +72,7 @@ We will have multiple milestones to ensure that the technical writer has been fo
 
 #### Technical writer #2 - Open for application.
 
-Applications for writer #2 have closed. Please join our join our [Slack community](https://join.slack.com/t/mojaglobal/shared_invite/zt-o6ta1ug0-rVLjAo460~d7JbZ~HpFFtw) and the #documentation channel it you wish to participate voluntarily. We need all the help we can get. 
-
-Writer #2 will work with mentors Sneha Mishra (contributors website developer, ReadTheDocs maintainer, and GSoD 2020 graduate!) and Dr. Andrew O’Reilly-Nugent (TSC Director) to organise our technical and developer documentation. This will involve collaboration with the Documentation Working Group, moja global brand management partners at Climate Advisors, and the maintainers of moja global projects. Writer #2 will need a keen eye for detail and great instincts for designing a pain-free documentation experience. Web development experience is not required, but would be a bonus if it enabled Writer #2 to take the lead on the provisioning of a static site generator, with support from other moja global developers.
+Sarthak Kundra will work with mentors Sneha Mishra (contributors website developer, ReadTheDocs maintainer, and GSoD 2020 graduate!) and Dr. Andrew O’Reilly-Nugent (TSC Director) to organise our technical and developer documentation. This will involve collaboration with the Documentation Working Group, moja global brand management partners at Climate Advisors, and the maintainers of moja global projects. Sarthak has keen eye for detail and great instincts for designing a pain-free documentation experience. Sarthak's web development experience will enabled Sarthak to take the lead on the provisioning of a static site generator, with support from other moja global developers.
 
 -   Update the existing contributors website:
 	- Work with our UI/UX and communications experts to add content and improve navigation.
