@@ -6,9 +6,9 @@ Moja global is an international collaboration under the Linux Foundation that pr
 
 In 2020 moja global is completed 2 GSoD projects! Thanks to [Sneha](https://github.com/Tlazypanda) and [Anthony](https://github.com/Tonnix) for all their hard work.
 
-## Proposed Documentation Projects for 2021
+## Accepted Documentation Projects for 2021
 
-Please see our [project proposal](GSoD2021-moja-global-proposal.md). If you love docs please consider applying!
+We have selected Harsh Bardhan and Sarthak Kundra as our Technical Writers for 2021! You can see their project plan [here](https://github.com/moja-global/Google_Season_of_Documentation/blob/master/GSoD2021-moja-global-proposal.md). 
 
 ## Interested in moja global even outside GSoD?  
 
