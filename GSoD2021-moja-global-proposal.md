@@ -52,7 +52,7 @@ Harsh will be expected to:
 -   Prepare documentation on setting up configuration files:
 	 - Audit the existing documentation and regarding FLINT configuration as this is currently fragmented and difficult to navigate.
 	 - Connect with subject matter experts and developers to understand the most common FLINT analyses
-	- Provide a beginner friendly tutorial for two (2) analyses (Tier-1 and Tier-3) being actively developed by moja global teams.
+	 - Provide a beginner friendly tutorial for two (2) analyses (Tier-1 and Tier-3) being actively developed by moja global teams.
 
 -   Develop case studies for moja global:
 	 - Work with the TSC to prioritise a list of case studies.
@@ -79,10 +79,10 @@ Sarthak Kundra will work with mentors Sneha Mishra (contributors website develop
 	 - Use a static site generator to render markdown content and add this to the contributors websites.
 	 - Document the process for adding content to the contributors website.
 
--   Prepare documentation on setting up configuration files:
+-   Design a documentation architecture for improved navigation between projects and their documentation
 	 - Audit moja global projects repositories and associated documentation to assess conformance with the moja global style guide.
 	 - Transcribe the control flow and system architecture diagrams from LucidChart to a Web Component.
-	- Design and visualize a map of moja global repositories and services.
+	 - Design and visualize a map of moja global repositories and services.
 
 -   Plan a migration of existing documentation onto our ReadTheDocs platform:
 	 - Update the moja global [ReadTheDocs](https://github.com/moja-global/moja_global_docs) README and provide common instructions for submitting documentation.
