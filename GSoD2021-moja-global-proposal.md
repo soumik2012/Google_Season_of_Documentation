@@ -70,7 +70,7 @@ We will have multiple milestones to ensure that the technical writer has been fo
 |Milestone 4                                  |Prepare moja global case studies for publication.|October 10, 2021|
 |Milestone 5                                  |Host the case studies on our contributors website and drive new contributions.|November 15, 2021|
 
-#### Technical writer #2 - Open for application.
+#### Technical writer #2 - Sarthak Kundra
 
 Sarthak Kundra will work with mentors Sneha Mishra (contributors website developer, ReadTheDocs maintainer, and GSoD 2020 graduate!) and Dr. Andrew O’Reilly-Nugent (TSC Director) to organise our technical and developer documentation. This will involve collaboration with the Documentation Working Group, moja global brand management partners at Climate Advisors, and the maintainers of moja global projects. Sarthak has keen eye for detail and great instincts for designing a pain-free documentation experience. Sarthak's web development experience will enabled Sarthak to take the lead on the provisioning of a static site generator, with support from other moja global developers.
 
