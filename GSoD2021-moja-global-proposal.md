@@ -40,7 +40,7 @@ We seek two technical writers to work with moja global during the Google Season 
 
 #### Technical writer #1 - Harsh Bardhan Mishra
 
-Harsh is a Computer Science and Engineering student from Chennai, India. Harsh will work with mentor Sabita Rao (technical writer by profession and GSoD '20 participant) and the moja global Technical Steering Committee (TSC) to canvas existing FLINT users, including the Mullion Group (Australia) and NRCan (Canada). Harsh will develop excellent technical communication skills and experience obtaining expert advice to create an intuitive and approachable content. During GSoD he will work closely with the TSC to develop a content strategy for case studies and news that can be incorporated into the contributors website.
+Harsh is a Computer Science and Engineering student from Chennai, India. Harsh will work with mentors Sabita Rao (technical writer by profession and GSoD '20 participant), Sagar Utekar (MTS2 at VMWare, GSoD and GSoC mentor) and the moja global Technical Steering Committee (TSC) to canvas existing FLINT users, including the Mullion Group (Australia) and NRCan (Canada). Harsh will develop excellent technical communication skills and experience obtaining expert advice to create an intuitive and approachable content. During GSoD he will work closely with the TSC to develop a content strategy for case studies and news that can be incorporated into the contributors website.
 
 Harsh will be expected to:
 
