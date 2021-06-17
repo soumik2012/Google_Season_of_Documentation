@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "sarahhaggarty",
+      "name": "sarahhaggarty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/81160244?v=4",
+      "profile": "https://github.com/sarahhaggarty",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Google_Season_of_Documentation",
+  "projectOwner": "moja-global",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
