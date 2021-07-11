@@ -25,7 +25,6 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 ### Sprint 1:  
 ### Month 3 to 7: Low accuracy working concept
 
-
 - Collect data and set up sharing agreements between departments involved.
 - Training in land cover / land use time series mapping.
 - Develop forest/non-forest 2010-2020 time-series (possibly using contractor)
@@ -74,7 +73,6 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 ### Sprint 4:  
 ### Month 18 to 22: All pools, grasslands, 5 disturbances
 
-
 - Training in next priority subject
 - Scale up to national level and apply all available disturbances and - refinements (e.g. parameters, growth curves, etc.) to all areas (i.e. new and already calculated in previous sprints.)
 - Add grasslands to 2000-2020 time series 
@@ -91,7 +89,6 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 
 ### Sprint 5:  
 ### Month 23 to 27: All pools, livestock, 6 key disturbances
-
 
 - Training in module development starting with design of disturbance matrices and moving towards developing parameter based modules 
 - Scale up to national level and apply all available disturbances and refinements (e.g. parameters, growth curves, etc.) to all areas (i.e. new - and already calculated in previous sprints.)
@@ -110,7 +107,6 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 ### Sprint 6: 
 ### Month 28 to 32: All pools, wetlands, 7 disturbances
 
-
 - Training in next priority subject
 - Apply all available disturbances and refinements (e.g. parameters, growth curves, etc.) to whole country
 - Add wetlands to 2000-2020 time series 
@@ -126,7 +122,6 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements
 
 ### Possible disturbances and Modules that can be selected depending on national circumstances and policy interests
-
 
 - Land use change
 - Fire (various types)
