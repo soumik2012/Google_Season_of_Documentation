@@ -11,6 +11,8 @@ The steps in the generic plan need to be explained in more detail in a generic i
 The implementation period used below stretches over almost 3 years, i.e. 32 months. Of course an MRV system needs upgrading and adjustments after that period but countries can continue the 5 month cycles of improvement after the first 36 months on their own if necessary with support from the user community around moja global.
 
 ### Preparation phase: Months 1 and 2: Preparation
+
+
 - Administrative arrangements
 - Identification of pilot area and collect all available data. 
 - Decide on Policy and Reporting Priorities for MRV system (International reporting, results based payments related to forests, National reporting, etc.)
@@ -21,6 +23,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Prioritise the most common existing disturbances (e.g. degradation)
 
 ### Sprint 1:  Month 3 to 7: Low accuracy working concept
+
+
 - Collect data and set up sharing agreements between departments involved.
 - Training in land cover / land use time series mapping.
 - Develop forest/non-forest 2010-2020 time-series (possibly using contractor)
@@ -34,6 +38,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements.
 
 ### Sprint 2:  Month 8 to 12: All pools, 3 disturbances, 1 growth curve, 20 years time series
+
+
 - Governance and data sharing systems (portal for data sharing)
 - Training in growth curve development
 - Develop forest/non-forest 2000-2010 time series
@@ -48,6 +54,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements
 
 ### Sprint 3:  Month 13 to 17: All pools, 4 disturbances, forest growth curves
+
+
 - Training on forest science carbon modeling to improve the capacity to identify areas for improvement of the MRV system
 - Scale up pilot area to other area of similar size 
 - Map forest classes, plantations, agriculture (by key groups: pasture, woody crops, annual crops) 2000-2020 time series
@@ -63,6 +71,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements
 
 ### Sprint 4:  Month 18 to 22: All pools, grasslands, 5 disturbances
+
+
 - Training in next priority subject
 - Scale up to national level and apply all available disturbances and - refinements (e.g. parameters, growth curves, etc.) to all areas (i.e. new and already calculated in previous sprints.)
 - Add grasslands to 2000-2020 time series 
@@ -78,6 +88,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements
 
 ### Sprint 5:  Month 23 to 27: All pools, livestock, 6 key disturbances
+
+
 - Training in module development starting with design of disturbance matrices and moving towards developing parameter based modules 
 - Scale up to national level and apply all available disturbances and refinements (e.g. parameters, growth curves, etc.) to all areas (i.e. new - and already calculated in previous sprints.)
 - Add livestock to 2000-2020 time series (Or other data depending on national priorities)
@@ -93,6 +105,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements
 
 ### Sprint 6: Month 28 to 32: All pools, wetlands, 7 disturbances
+
+
 - Training in next priority subject
 - Apply all available disturbances and refinements (e.g. parameters, growth curves, etc.) to whole country
 - Add wetlands to 2000-2020 time series 
@@ -108,6 +122,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Uncertainty analysis and resulting suggestions for improvements
 
 ### Possible disturbances and Modules that can be selected depending on national circumstances and policy interests
+
+
 - Land use change
 - Fire (various types)
 - Deforestation (slash-burn, harvest, various types) 
