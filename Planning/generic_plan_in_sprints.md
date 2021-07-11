@@ -10,8 +10,8 @@ The steps in the generic plan need to be explained in more detail in a generic i
 
 The implementation period used below stretches over almost 3 years, i.e. 32 months. Of course an MRV system needs upgrading and adjustments after that period but countries can continue the 5 month cycles of improvement after the first 36 months on their own if necessary with support from the user community around moja global.
 
-### Preparation phase: Months 1 and 2: Preparation
-
+### Preparation phase: 
+### Months 1 and 2: Preparation
 
 - Administrative arrangements
 - Identification of pilot area and collect all available data. 
@@ -22,7 +22,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Review existing landscape, key tree species, past and planned disturbances/management
 - Prioritise the most common existing disturbances (e.g. degradation)
 
-### Sprint 1:  Month 3 to 7: Low accuracy working concept
+### Sprint 1:  
+### Month 3 to 7: Low accuracy working concept
 
 
 - Collect data and set up sharing agreements between departments involved.
@@ -37,8 +38,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Compare pilot area results with previous reporting for the same areas
 - Uncertainty analysis and resulting suggestions for improvements.
 
-### Sprint 2:  Month 8 to 12: All pools, 3 disturbances, 1 growth curve, 20 years time series
-
+### Sprint 2:  
+### Month 8 to 12: All pools, 3 disturbances, 1 growth curve, 20 years time series
 
 - Governance and data sharing systems (portal for data sharing)
 - Training in growth curve development
@@ -53,8 +54,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Compare pilot area results with previous reporting for the same area
 - Uncertainty analysis and resulting suggestions for improvements
 
-### Sprint 3:  Month 13 to 17: All pools, 4 disturbances, forest growth curves
-
+### Sprint 3:  
+### Month 13 to 17: All pools, 4 disturbances, forest growth curves
 
 - Training on forest science carbon modeling to improve the capacity to identify areas for improvement of the MRV system
 - Scale up pilot area to other area of similar size 
@@ -70,7 +71,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Compare pilot area results with previous reporting for the same areas
 - Uncertainty analysis and resulting suggestions for improvements
 
-### Sprint 4:  Month 18 to 22: All pools, grasslands, 5 disturbances
+### Sprint 4:  
+### Month 18 to 22: All pools, grasslands, 5 disturbances
 
 
 - Training in next priority subject
@@ -87,7 +89,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Compare pilot area results with previous reporting for the same areas
 - Uncertainty analysis and resulting suggestions for improvements
 
-### Sprint 5:  Month 23 to 27: All pools, livestock, 6 key disturbances
+### Sprint 5:  
+### Month 23 to 27: All pools, livestock, 6 key disturbances
 
 
 - Training in module development starting with design of disturbance matrices and moving towards developing parameter based modules 
@@ -104,7 +107,8 @@ The implementation period used below stretches over almost 3 years, i.e. 32 mont
 - Compare pilot area results with previous reporting for the same areas
 - Uncertainty analysis and resulting suggestions for improvements
 
-### Sprint 6: Month 28 to 32: All pools, wetlands, 7 disturbances
+### Sprint 6: 
+### Month 28 to 32: All pools, wetlands, 7 disturbances
 
 
 - Training in next priority subject
